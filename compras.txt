@@ -8,3 +8,6 @@ farinha lactea
 tomate
 alface
 pão
+chocolate
+cereal
+macarrão
